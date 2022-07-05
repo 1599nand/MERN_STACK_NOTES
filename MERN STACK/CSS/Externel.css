@@ -1,0 +1,22 @@
+ /*selector*/
+ body {
+    /*  property    :    value */
+    background-color: lightblue;
+    /*       declaration      */
+ }
+
+ /* Type selectors*/
+ /* The CSS type selector matches elements by node name. 
+ In other words, it selects all elements of the given 
+ type within a document.*/
+ h1 {
+    color: white;
+    background-color: red;
+    padding-left: 35px;
+ }
+
+ p {
+    color: blue;
+    font-size: 45px;
+    text-align: center;
+ }
